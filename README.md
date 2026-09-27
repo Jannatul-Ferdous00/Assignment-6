@@ -15,3 +15,7 @@ Features :
 4.Plan metrics, completion tracking, removal actions and a five exercise limit
 5.Plan and saved data persisted in the browser between visits
 6.Custom not found page and loading indicator
+7. Toast notifications for add, remove and update actions
+8. Centralized state management using React Context API
+9. Reusable and shared UI components across pages
+10. Fully responsive layout for mobile, tablet and desktop screens
