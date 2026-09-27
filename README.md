@@ -9,9 +9,9 @@ React Toastify
 FitLog workout API
 
 Features :
-Responsive workout library with search and duration, calorie or rating sorting
-Exercise detail pages with equipment, training stats, instructions and images
-Todays Plan and Saved lists with live navigation counters
-Plan metrics, completion tracking, removal actions and a five exercise limit
-Plan and saved data persisted in the browser between visits
-Custom not found page and loading indicator
+1.Responsive workout library with search and duration, calorie or rating sorting
+2.Exercise detail pages with equipment, training stats, instructions and images
+3.Todays Plan and Saved lists with live navigation counters
+4.Plan metrics, completion tracking, removal actions and a five exercise limit
+5.Plan and saved data persisted in the browser between visits
+6.Custom not found page and loading indicator
